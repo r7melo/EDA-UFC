@@ -44,7 +44,7 @@ char *metodoDobramento(char *k, int n, int j) {
 }
 
 
-void E2() {
+void MetodoDeDobra() {
 
 	setlocale(LC_ALL, "Portuguese");
 
